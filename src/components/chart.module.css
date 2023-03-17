@@ -1,0 +1,30 @@
+.chart {
+  background-color: white;
+  width: 70%;
+  height: 80%;
+  border-radius: 20px;
+
+  position: fixed;
+  top: 10;
+  bottom: 10%;
+  left: 15%;
+  right: 15;
+}
+
+.header {
+  height: 40px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: bolder;
+  background-color: #d5c1ff;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+}
+.span {
+  margin-right: 20px;
+}
+h3 {
+  margin-left: 20px;
+}
